@@ -1,0 +1,4 @@
+class LargeWarehouse : public Warehouse
+{
+
+};

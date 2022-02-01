@@ -1,0 +1,4 @@
+class CivilCar : public Car
+{
+
+};
